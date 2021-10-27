@@ -3,7 +3,7 @@
 ### Task 1 - State - simple counter
 1. Import component Counter from file `components/Counter.js` to App.js and use it as a component in the app
 2. Edit the `Counter.js` to use state hook, on click on the button the "counter should increase"
-3. Edit the `Counter.js` add second button "Click to decrease" which should decrease the counter
+3. Edit the `Counter.js` add second button "Click to decrease" which should decrease the counter  
 ![image](https://user-images.githubusercontent.com/8086995/138961818-9a1efd7b-b2e3-4975-9f7e-b58aca44b11b.png)
   
 FYI: You might comment out the componnet in app.js once you finish it. 
@@ -24,5 +24,5 @@ We might have multiple state variables in one component.
 1. Import component `Timer` from file `components/Timer.js` to App.js
 2. The clock should change the color when you change the item from drop down
 3. Explore files `components/Timer.js` and `components/Clock.js` and try to fix the issue.
-4. You can use `console.log(xxx)` or `debugger` to help you with debugging the issue. 
+4. You can use `console.log(xxx)` or `debugger` to help you with debugging the issue.   
 ![image](https://user-images.githubusercontent.com/8086995/138968875-6aea86de-f1ef-4150-9ad7-aa7a1fd11953.png)
